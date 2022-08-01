@@ -1,6 +1,6 @@
 # Celsius para Fahrenheit
 
-Faça um função que rebeba a temperatura em graus Celsius, transforme e retorne em graus Fahrenheit.
+Faça um função que receba a temperatura em graus Celsius, transforme e retorne em graus Fahrenheit.
 
 Use a fórmula `°F = (°C × 9/5) + 32`.
 
